@@ -1,2 +1,2 @@
-# Shift-UNet
-Shift-UNet: Tapping into the Potential of 1$\times$1 Convolutions in Medical image Segmentation
+Shift-UNet: 基于动态空间移位卷积的轻量化医学图像分割网络
+本项目代码将在论文录用后正式公开。
